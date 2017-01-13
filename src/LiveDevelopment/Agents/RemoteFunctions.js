@@ -34,7 +34,6 @@ function RemoteFunctions(experimental) {
     "use strict";
 
     var lastKeepAliveTime = Date.now();
-    //var Inspector       = require("LiveDevelopment/Inspector/Inspector");
 
     /**
      * @type {DOMEditHandler}
